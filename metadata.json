@@ -1,0 +1,7 @@
+{
+  "name": "Copy of PARIVARTAN - MIET",
+  "description": "A web application for PARIVARTAN, the social working group of MIET Meerut college. This platform allows members and admins to connect, share posts, view announcements and achievements, and manage group activities. It's designed to support their mission of teaching underprivileged students.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
